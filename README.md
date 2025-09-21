@@ -11,3 +11,9 @@
 - **Python**
 - **OpenCV**
 - **EasyOCR / Tesseract** (for license plate recognition)
+---
+## ⚙️ Installation
+Clone the repository and install dependencies:
+'''bash
+git clone https://github.com/your-username/Traffic-Surveillance-for-Helmet-and-License-Plate-Recognition.git
+cd Traffic-Surveillance-for-Helmet-and-License-Plate-Recognition
